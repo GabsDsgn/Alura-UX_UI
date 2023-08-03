@@ -1,0 +1,17 @@
+- Usina
+- Caixa
+- Pessoas
+- Aperto mão
+- Setas
+- Tag preço
+- Balão de fala
+- Crachá
+- Crescimento
+- Dinheiro
+- Fábrica
+- Faruamento
+- Lâmpada
+- Loja
+- Produtividade
+- Qualidade
+- Queda preço
